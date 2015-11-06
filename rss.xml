@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[inhouse]]></title>
         <description><![CDATA[inhouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 04:15:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 06:07:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cousins]]></title>
             <description><![CDATA[<article><h1>Cousins</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0483599c-c1dc-4941-b78f-e00683b8cf4a.jpg"></article>]]></description>
-            <link>undefinedcousins/index.html</link>
+            <link>https://thegrid.ai/inhouse/cousins/index.html</link>
             <guid isPermaLink="false">0d5f778e-8a94-4d3a-bce6-dce0344704eb</guid>
             <pubDate>Sat, 31 Oct 2015 04:14:56 GMT</pubDate>
         </item>
